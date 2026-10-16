@@ -88,25 +88,11 @@ PersonMenu  --memakai-->  PeopleData  --menyimpan-->  Person
 4. Jika valid, objek `Person` baru dibuat dan dimasukkan ke `PeopleData`.
 5. Tabel di-refresh, muncul pesan "Data berhasil ditambahkan!", dan form dikosongkan.
 
-**Dokumentasi:**
-
-| 1.png | 2.png |
-|---|---|
-| ![ADD 1](Dokumentasi/ADD/1.png) | ![ADD 2](Dokumentasi/ADD/2.png) |
-| Form sudah diisi sebelum klik ADD | Data baru muncul di tabel setelah ADD |
-
 ### Alur tombol CANCEL
 
 1. Pengguna sudah mengisi sebagian atau seluruh form.
 2. Klik **CANCEL**.
 3. Semua text field dikosongkan, combo box kembali ke pilihan awal, seleksi tabel dihapus, dan kursor kembali ke kolom ID. Data di tabel tidak berubah.
-
-**Dokumentasi:**
-
-| 1.png | 2.png |
-|---|---|
-| ![CANCEL 1](Dokumentasi/CANCEL/1.png) | ![CANCEL 2](Dokumentasi/CANCEL/2.png) |
-| Form terisi sebelum klik CANCEL | Form kosong kembali setelah CANCEL |
 
 ### Alur tombol DELETE
 
@@ -116,13 +102,7 @@ PersonMenu  --memakai-->  PeopleData  --menyimpan-->  Person
 4. Jika **Yes**, data dihapus dari `PeopleData`, tabel di-refresh, dan muncul pesan "Data berhasil dihapus!".
 5. Jika **No**, tidak ada yang berubah.
 
-**Dokumentasi:**
-
-| 1.png | 2.png | 3.png |
-|---|---|---|
-| ![DELETE 1](Dokumentasi/DELETE/1.png) | ![DELETE 2](Dokumentasi/DELETE/2.png) | ![DELETE 3](Dokumentasi/DELETE/3.png) |
-| Baris dipilih di tabel | Dialog konfirmasi hapus | Tabel setelah data terhapus |
-
+DOKUMENTASI ADA PADA FILE DOKUMENTASI
 ---
 
 ## 4. Cara Menjalankan
